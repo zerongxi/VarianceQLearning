@@ -24,7 +24,7 @@ CONFIG = dict(
     eps_eval=0.05,
     cache_file="cartpole.h5"
 )
-N_CPUS = 36
+N_CPUS = 4
 N_TRIALS = 9
 EVAL_TRIALS = 10
 
